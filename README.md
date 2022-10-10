@@ -1,6 +1,6 @@
 ##Credit Card Fraud Detection
 
-#I have used Python Scientific Computing Libraries and Machine Learning Algorithm to do thid Credit Card Fraud Detection Analysis.
+#I have used Python Scientific Computing Libraries and Machine Learning Algorithm to do thid Credit Card Fraud Detection Analysis using Jupyter Notebook.
 
 #Model Prediction using Isolation Forest Algorithm.
 
